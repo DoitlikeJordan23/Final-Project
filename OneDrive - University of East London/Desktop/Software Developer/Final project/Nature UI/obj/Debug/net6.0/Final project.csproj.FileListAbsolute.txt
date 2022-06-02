@@ -1,0 +1,7 @@
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.csproj.AssemblyReference.cache
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.AssemblyInfoInputs.cache
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.AssemblyInfo.cs
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.csproj.CoreCompileInputs.cache
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gstar\OneDrive - University of East London\Desktop\Software Developer\Final project\obj\Debug\net6.0\Final project.MvcApplicationPartsAssemblyInfo.cache
